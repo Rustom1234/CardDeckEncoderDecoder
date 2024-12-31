@@ -58,3 +58,11 @@ The application will decode the string and display the original message.
 The inspiration and initial prompt for the card deck encoding was used from my solution to CodeWars' "Hide a message in a deck of playing cards" practice question. 
 The link to the specific question is: 
 https://www.codewars.com/kata/59b9a92a6236547247000110.
+
+
+## Thoughts
+
+This encryption technique was chosen for a few reasons:
+- Base64 encoding works as an outer layer to disguise the nature of the message being a deck of cards to the naked eye.
+- If ran through a brute force technique the deck of cards encoding would be very difficult to break through as there are 52! possible combinations, which is larger than the estimated number of atoms in the universe.
+Naturally, an experienced hacker could crack this code but would need to go through a couple steps and would have to find their own solution for the deck of cards encoding problem first. 
