@@ -49,9 +49,9 @@ def encode(message, deck, char_to_num):
     return get_specific_perm(deck, perm_number)
 
 # Example usage
-result = encode("Tarini is a rat bastard", deck, char_to_num)
+text = "Simple test question"
+result = encode(text, deck, char_to_num)
 print(result)
 
         
         
-    
