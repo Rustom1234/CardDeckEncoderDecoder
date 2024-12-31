@@ -1,6 +1,6 @@
 # Deck Of Cards Encoder/Decoder
 
-<img src="Screenshot 2024-12-31 at 1.02.29 AM.png" alt="Initial App Look" width="400"/>
+<img src="images/Screenshot 2024-12-31 at 1.02.29 AM.png" alt="Initial App Look" width="400"/>
 
 ## Introduction
 
@@ -43,7 +43,7 @@ python app.py
 - Click "Encode":
 The application will process your message and display a Base64 encoded string representing a specific permutation of the deck.
 
-<img src="Screenshot 2024-12-31 at 1.09.38 AM.png" alt="Writing Encoded Message" width="300"/> <img src="Screenshot 2024-12-31 at 1.09.58 AM.png" alt="Encoding Message..." width="300"/>
+<img src="images/Screenshot 2024-12-31 at 1.09.38 AM.png" alt="Writing Encoded Message" width="300"/> <img src="images/Screenshot 2024-12-31 at 1.09.58 AM.png" alt="Encoding Message..." width="300"/>
 
 2. **Decode a Message**
 - Navigate to the "Decode Message" Section:
@@ -51,7 +51,7 @@ The application will process your message and display a Base64 encoded string re
 - Click "Decode":
 The application will decode the string and display the original message.
 
-<img src="Screenshot 2024-12-31 at 1.15.35 AM.png" alt="Writing Decoded Message" width="300"/><img src="Screenshot 2024-12-31 at 1.15.51 AM.png" alt="Decoding Message" width="300"/>
+<img src="images/Screenshot 2024-12-31 at 1.15.35 AM.png" alt="Writing Decoded Message" width="300"/><img src="images/Screenshot 2024-12-31 at 1.15.51 AM.png" alt="Decoding Message" width="300"/>
 
 ## Credit
 
