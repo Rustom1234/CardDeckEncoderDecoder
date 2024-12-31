@@ -43,5 +43,18 @@ python app.py
 - Click "Encode":
 The application will process your message and display a Base64 encoded string representing a specific permutation of the deck.
 
-<img src="Screenshot 2024-12-31 at 1.09.38 AM.png" alt="Writing Encoded Message" width="350"/> <img src="Screenshot 2024-12-31 at 1.09.58 AM.png" alt="Encoding Message..." width="300"/>
+<img src="Screenshot 2024-12-31 at 1.09.38 AM.png" alt="Writing Encoded Message" width="300"/> <img src="Screenshot 2024-12-31 at 1.09.58 AM.png" alt="Encoding Message..." width="300"/>
 
+2. **Decode a Message**
+- Navigate to the "Decode Message" Section:
+- Paste the string you wish to decode in the provided textarea.
+- Click "Decode":
+The application will decode the string and display the original message.
+
+<img src="Screenshot 2024-12-31 at 1.15.35 AM.png" alt="Writing Decoded Message" width="300"/><img src="Screenshot 2024-12-31 at 1.15.51 AM.png" alt="Decoding Message" width="300"/>
+
+## Credit
+
+The inspiration and initial prompt for the card deck encoding was used from my solution to CodeWars' "Hide a message in a deck of playing cards" practice question. 
+The link to the specific question is: 
+https://www.codewars.com/kata/59b9a92a6236547247000110.
