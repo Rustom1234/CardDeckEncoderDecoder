@@ -43,5 +43,5 @@ python app.py
 - Click "Encode":
 The application will process your message and display a Base64 encoded string representing a specific permutation of the deck.
 
-<img src="Screenshot 2024-12-31 at 1.09.38 AM.png" alt="Writing Encoded Message" width="300"/> <img src="Screenshot 2024-12-31 at 1.09.58 AM.png" alt="Encoding Message..." width="300"/>
+<img src="Screenshot 2024-12-31 at 1.09.38 AM.png" alt="Writing Encoded Message" width="350"/> <img src="Screenshot 2024-12-31 at 1.09.58 AM.png" alt="Encoding Message..." width="300"/>
 
